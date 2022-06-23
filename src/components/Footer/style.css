@@ -1,0 +1,16 @@
+.footer{
+    background: #ffffff;
+    padding: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+    border-radius: 1rem;
+}
+
+.credit{
+   text-align: center;
+   font-size: 1.5rem; 
+   color: rgb(138 43 226);
+   font-weight: bold;
+}
