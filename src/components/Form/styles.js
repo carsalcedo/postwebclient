@@ -1,4 +1,3 @@
-
 import { makeStyles } from '@material-ui/core/styles';
 
 export default makeStyles((theme) => ({
@@ -12,7 +11,6 @@ export default makeStyles((theme) => ({
     display: 'flex',
     justifyContent: 'center',
     flexDirection: 'column',
-    //position: 'fixed'
   },
   form: {
     display: 'flex',
@@ -24,8 +22,6 @@ export default makeStyles((theme) => ({
     margin: '10px 0',
   },
   buttonSubmit: {
-    marginBottom: 15,
-    background: '#8A2BE2',
-    color: '#fff'
+    marginBottom: 20,
   },
 }));
